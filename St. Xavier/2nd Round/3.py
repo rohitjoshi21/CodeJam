@@ -1,3 +1,10 @@
+'''
+Question 3
+Print collatz sequence of an input number.
+(You can get detail about collatz sequence from this site:
+https://en.wikipedia.org/wiki/Collatz_conjecture)
+'''
+
 def getCollatz(n):
     if n <= 0:
         return []

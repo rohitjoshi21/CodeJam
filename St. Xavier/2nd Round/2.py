@@ -1,3 +1,8 @@
+'''
+Question 2
+Perform 2x2 matrix multiplication and print the result.
+'''
+
 a, b, c, d = map(int, input().split())
 p, q, r, s = map(int, input().split())
 

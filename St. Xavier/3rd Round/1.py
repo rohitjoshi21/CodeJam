@@ -1,3 +1,22 @@
+'''
+Question 1
+Get the enter and exit time of an employeer of 6 days. Get the per hour salary. 
+Calculate total wage of the employee if 50% extra salary is provided for overtime
+hours. If 40 hours is the normal working hours, print the total wage.
+Eg:
+Enter the entering and exiting time of 6 days:- 
+10:00am 04:00pm
+09:30am 03:30pm
+10:00am 05:00pm
+08:10am 07:00pm
+04:00am 10:00am
+10:00am 04:00pm
+
+Enter Salary per hour:-  11000
+
+The total wage is 470250.00 
+'''
+
 def getTime(raw):
     hour = raw[:2]
     mins = raw[3:5]

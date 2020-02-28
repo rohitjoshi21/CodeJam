@@ -1,3 +1,7 @@
+'''
+Question 1
+Count the no of vowels,consonants,digits,whitespace and symbol from an input sentence.
+'''
 vowels = ['a', 'e', 'i', 'o', 'u']
 
 vowelC = 0
